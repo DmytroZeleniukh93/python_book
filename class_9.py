@@ -15,3 +15,9 @@ class Restaurant:
 restaurant1 = Restaurant('Volt', 'Chicken')
 restaurant1.describe_restaurant()
 restaurant1.open_restaurant()
+
+# 9-2 describe_restaurant()
+
+restaurant2 = Restaurant('Lol', 'Candy')
+restaurant2.describe_restaurant()
+restaurant2.open_restaurant()
